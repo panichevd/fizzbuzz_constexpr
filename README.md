@@ -1,1 +1,1 @@
-# fizzbuzz_constexpr
+This repository contains an example of solving the fizzbuzz problem in the compilation time using constexpr feature of C++
